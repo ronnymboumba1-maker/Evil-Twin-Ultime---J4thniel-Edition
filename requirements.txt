@@ -1,0 +1,30 @@
+# ============================================================
+# EVIL TWIN ULTIME - JATHNIEL EDITION
+# Dépendances Python
+# ============================================================
+
+# Interface graphique (optionnelle)
+PySide6>=6.5.0
+
+# Manipulation des paquets réseau
+scapy>=2.5.0
+
+# NetfilterQueue pour interception
+netfilterqueue>=1.0.4
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Manipulation de fichiers
+pathlib>=1.0.1
+
+# Utilitaires
+python-dateutil>=2.8.2
+
+# ============================================================
+# DÉPENDANCES SYSTÈME REQUISES
+# ============================================================
+# sudo apt-get install aircrack-ng dnsmasq iptables wireless-tools
+# sudo apt-get install python3-pip python3-venv
+# sudo apt-get install libnetfilter-queue-dev libnfnetlink-dev
+# ============================================================
